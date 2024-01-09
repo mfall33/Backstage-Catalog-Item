@@ -5,7 +5,7 @@ metadata:
   description:
     Testing the ADR plugin.
   annotations:
-    backstage.io/adr-location: https://github.com/mfall33/Backstage-Catalog-Item/tree/main/docs
+    backstage.io/adr-location: docs
 spec:
   type: library
   owner: CNCF
