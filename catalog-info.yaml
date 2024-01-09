@@ -3,8 +3,8 @@ kind: Component
 metadata:
   name: Backstage-Catalog-Item
   description: Testing the ADR plugin
-  annotations:
-    backstage.io/adr-location: docs
+  # annotations:
+  #   backstage.io/adr-location: docs
 spec:
   type: library
   owner: guest
