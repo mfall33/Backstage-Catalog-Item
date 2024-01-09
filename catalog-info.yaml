@@ -10,3 +10,7 @@ spec:
   type: library
   owner: CNCF
   lifecycle: experimental
+integrations:
+  github:
+    - host: github.com
+      token: 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
