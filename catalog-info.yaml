@@ -1,0 +1,4 @@
+metadata:
+  name: Backstage-Catalog-Item
+  annotations:
+    backstage.io/adr-location: docs
