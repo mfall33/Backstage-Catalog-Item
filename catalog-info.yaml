@@ -2,8 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: Backstage-Catalog-Item
-  description:
-    Testing the ADR plugin.
+  description: Testing the ADR plugin.
   annotations:
     backstage.io/adr-location: docs
 spec:
