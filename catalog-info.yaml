@@ -7,5 +7,5 @@ metadata:
     backstage.io/adr-location: docs
 spec:
   type: library
-  owner: CNCF
+  owner: guest
   lifecycle: experimental
