@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: Backstage-Catalog-Item
-  description: |
+  description:
     Testing the ADR plugin.
   annotations:
     backstage.io/adr-location: https://github.com/mfall33/Backstage-Catalog-Item/tree/main/docs
@@ -12,5 +12,5 @@ spec:
   lifecycle: experimental
 integrations:
   github:
-    - host: github.com
+      host: github.com
       token: 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
